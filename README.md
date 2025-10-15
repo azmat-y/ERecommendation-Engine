@@ -17,17 +17,9 @@ This is a simple **E-commerce Product Recommendation** system that combines **us
 ## Tech Stack
 
 - **Backend**: Python, Flask, SQLAlchemy, SQLite
-- **LLM**: Gemini API (Gemini 1.5 Pro)
+- **LLM**: Gemini API 
 - **Frontend**: Vanilla JavaScript, HTML, CSS
-- **Dependencies**:
-  - Flask
-  - Flask-CORS
-  - SQLAlchemy
-  - pydantic-settings
-
----
-
-
+  
 ---
 
 ## Setup Instructions
